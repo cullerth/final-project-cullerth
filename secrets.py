@@ -1,0 +1,1 @@
+NYT_KEY = "0e954e5d30e8461f9f4a3162ad05d6ab"
